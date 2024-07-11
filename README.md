@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ameliaisnandaa
 - 👀 I’m interested in web programming and data mining
 - 🌱 I’m currently learning developing web base application using C#, java, .Net Framework. 
--     I also learn developing application with less code PowerApps and power platform.
-- 📫 How to reach me ...
+- I also learn developing application with less code PowerApps and power platform.
+- 📫 hit me throught
 
 <!---
 ameliaisnandaa/ameliaisnandaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
